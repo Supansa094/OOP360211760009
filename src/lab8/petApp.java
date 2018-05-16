@@ -9,13 +9,12 @@ public class petApp {
 
         System.out.println(d1.toString()+" "+d1.getClass().getSimpleName());
 
+
         Cat d2 = new Cat();
-        d2.setName("Ke Ke");
+        d2.setName("Zaza");
         d2.setAge(3);
 
         System.out.println(d2.toString()+" "+d2.getClass().getSimpleName());
-
-
 
 
 
